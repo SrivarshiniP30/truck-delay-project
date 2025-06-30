@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIML/VS-Lab/TruckProject/mlruns/436952056039140050/000465f1d6614e77811c149e040515eb/artifacts
+end_time: 1736031444569
+entry_point_name: ''
+experiment_id: '436952056039140050'
+lifecycle_stage: active
+run_id: 000465f1d6614e77811c149e040515eb
+run_name: exultant-goat-513
+run_uuid: 000465f1d6614e77811c149e040515eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736031043188
+status: 3
+tags: []
+user_id: sriva

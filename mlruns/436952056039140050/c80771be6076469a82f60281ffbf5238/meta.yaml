@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIML/VS-Lab/TruckProject/mlruns/436952056039140050/c80771be6076469a82f60281ffbf5238/artifacts
+end_time: 1736392821408
+entry_point_name: ''
+experiment_id: '436952056039140050'
+lifecycle_stage: active
+run_id: c80771be6076469a82f60281ffbf5238
+run_name: upset-bug-769
+run_uuid: c80771be6076469a82f60281ffbf5238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736392600285
+status: 3
+tags: []
+user_id: sriva

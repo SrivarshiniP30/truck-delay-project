@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIML/VS-Lab/TruckProject/mlruns/436952056039140050/18cbbb508c1741fa82997735eb25a743/artifacts
+end_time: 1736483544903
+entry_point_name: ''
+experiment_id: '436952056039140050'
+lifecycle_stage: active
+run_id: 18cbbb508c1741fa82997735eb25a743
+run_name: gifted-crab-564
+run_uuid: 18cbbb508c1741fa82997735eb25a743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736483324952
+status: 4
+tags: []
+user_id: sriva

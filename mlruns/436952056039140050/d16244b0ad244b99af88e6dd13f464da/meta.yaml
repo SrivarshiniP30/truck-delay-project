@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIML/VS-Lab/TruckProject/mlruns/436952056039140050/d16244b0ad244b99af88e6dd13f464da/artifacts
+end_time: 1736392019161
+entry_point_name: ''
+experiment_id: '436952056039140050'
+lifecycle_stage: active
+run_id: d16244b0ad244b99af88e6dd13f464da
+run_name: useful-shoat-570
+run_uuid: d16244b0ad244b99af88e6dd13f464da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736391987884
+status: 3
+tags: []
+user_id: sriva

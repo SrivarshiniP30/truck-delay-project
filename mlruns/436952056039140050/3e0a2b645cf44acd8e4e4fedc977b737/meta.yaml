@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/AIML/VS-Lab/TruckProject/mlruns/436952056039140050/3e0a2b645cf44acd8e4e4fedc977b737/artifacts
+end_time: 1736391542427
+entry_point_name: ''
+experiment_id: '436952056039140050'
+lifecycle_stage: active
+run_id: 3e0a2b645cf44acd8e4e4fedc977b737
+run_name: delicate-stoat-161
+run_uuid: 3e0a2b645cf44acd8e4e4fedc977b737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736391522932
+status: 3
+tags: []
+user_id: sriva
