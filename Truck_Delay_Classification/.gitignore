@@ -1,0 +1,4 @@
+.venv
+/src/Truck_Delay_Classification.egg-info
+/src/constants
+/Data/DataFrame

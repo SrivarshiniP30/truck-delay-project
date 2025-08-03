@@ -1,0 +1,12 @@
+pandas 
+mlflow
+numpy
+scikit-learn
+matplotlib
+psycopg2
+setuptools
+hopsworks
+hsml
+python-dotenv
+joblib
+-e .
