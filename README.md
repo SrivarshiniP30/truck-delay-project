@@ -1,3 +1,5 @@
+# Truck Delay Classification and ETA Prediction
+
 ## 🚀 Project Overview: An End-to-End Machine Learning Solution
 
 This project presents a comprehensive, end-to-end machine learning pipeline designed to predict truck delays and estimate arrival times (ETA). It covers the entire lifecycle of a real-world machine learning application, from initial data handling to model deployment and potential fine-tuning.
@@ -10,11 +12,13 @@ The goal is to analyze various factors influencing truck delays—such as weathe
 * **MLOps Practices:** Utilizing MLflow for experiment tracking, model versioning, and managing the machine learning lifecycle.
 * **Deployment Readiness:** Structuring the project for easy integration into an application, demonstrating readiness for production environments and continuous fine-tuning.
 
+This solution ultimately aims to **optimize delivery schedules, minimize operational costs, and enhance customer satisfaction** by accurately predicting and mitigating delays.
+
 ## 🌟 Key Features
 
 * **Full ML Lifecycle Implementation:** Demonstrates a complete machine learning workflow from raw data to deployable models.
-* **Data-Driven Insights:** Comprehensive analysis of factors influencing truck delays for informed decision-making.
-* **Advanced Predictive Modeling:** Implementation and comparative evaluation of various supervised learning algorithms.
+* **Data-Driven Insights:** **Performs comprehensive analysis** to identify key drivers of delay, **informing robust feature selection**.
+* **Advanced Predictive Modeling:** **Develops and rigorously evaluates** various supervised learning algorithms for delay classification and ETA prediction.
 * **MLOps Integration with MLflow:** Ensures reproducibility, version control for models, and efficient experiment management.
 * **Modular & Scalable Design:** Project structured with reusable components and pipelines for maintainability and future expansion.
 * **Data Management:** Clear separation of raw and processed data for improved data governance and pipeline clarity.
