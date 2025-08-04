@@ -44,3 +44,24 @@ The project workflow is primarily demonstrated through the Jupyter Notebooks loc
 * **MLflow Tracking:** `mlflow1.py` and `mlflow2.py` demonstrate MLflow integration.
 * **Model Deployment/Inference:** `modelDeployed.py` and `app.py` are likely used for serving the model.
 
+## 🚀 Getting Started
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/SrivarshiniP30/truck-delay-project.git](https://github.com/SrivarshiniP30/truck-delay-project.git)
+    cd truck-delay-project
+    ```
+2.  **Create a virtual environment and install dependencies:**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    pip install -r requirements.txt
+    ```
+3.  **Run the data processing and training pipeline:**
+    ```bash
+    python src/pipelines/training_pipeline.py
+    ```
+4.  **Start the prediction web app:**
+    ```bash
+    python app/app.py
+    ```
